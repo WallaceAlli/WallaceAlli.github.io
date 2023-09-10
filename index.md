@@ -1,4 +1,4 @@
-[Home](/) | [Projects](/tabs/interviews) | [About](/tabs/files) 
+[Home](/) | [Interviews](/tabs/interviews) | [Files](/tabs/files) 
 
 
 
