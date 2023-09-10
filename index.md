@@ -9,6 +9,8 @@ Pick Up Pal is a app made to streamline the school pickup line process by allowi
 
 
 # Why Pick Up Pal is needed
+??
 
 
 # Pick Up Pals Target Clients and Users
+??
