@@ -8,7 +8,7 @@
 Pick Up Pal is a app made to streamline the school pickup line process by allowing for more efficient verification of parents and guardians along with better coordination of incoming school traffic
 
 
-#Why Pick Up Pal is needed
+# Why Pick Up Pal is needed
 
 
-#Pick Up Pals Target Clients and Users
+# Pick Up Pals Target Clients and Users
