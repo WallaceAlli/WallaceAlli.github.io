@@ -1,9 +1,6 @@
 ---
-layout: custom_layout
-theme: jekyll-theme-architect
-author: Waliy Alli, Madalynn Villalobos, Thomas Gilmore, Tyler
-title: "PickUpPal Part two"
-description: "Senior Capstone Project Part two"
+title: PickUpPal Part two
+description: Senior Capstone Project Part two
 ---
 
 
