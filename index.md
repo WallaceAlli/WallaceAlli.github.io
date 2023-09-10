@@ -1,5 +1,4 @@
-Welcome to the Home Page
-# [Interviews](tabs/interviews) [Files](tabs/files)
+[Home](/) | [Projects](/tabs/interviews) | [About](/tabs/files) 
 
 
 
