@@ -1,4 +1,9 @@
-title: PickUpPal Part two
-description: Senior Capstone Project Part two
+layout: page
+title: "PickUpPal Part two"
+description: "Senior Capstone Project Part two"
+---
 
-Welcome to my website content.
+
+# Content starts here
+
+Welcome to my Domain
