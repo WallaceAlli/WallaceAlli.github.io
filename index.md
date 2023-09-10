@@ -1,2 +1,2 @@
 Welcome to the Home Page
-# [Interviews](tabs/interviews)
+# [Interviews](tabs/interviews) [Files](tabs/files)
