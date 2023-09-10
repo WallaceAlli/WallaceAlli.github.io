@@ -1,10 +1,5 @@
----
-title: PickUpPal Part two
-description: Senior Capstone Project Part two
----
+
 ## [Home](/) | [Interviews](/tabs/interviews) | [Files](/tabs/files) | [Timeline](/tabs/timeline)
 
 
-# Content starts here
-
-Welcome to my Domain
+## This Page will Contain the Interviews that we will be conducting with Teachers and those Related to our Project
