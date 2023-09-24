@@ -1,11 +1,6 @@
 ## [Home](/) | [Interviews](/tabs/interviews) | [About](/tabs/about) | [Timeline](/tabs/timeline)
 
-Here's [a link to something else][another place].
-Here's [yet another link][another-link].
-And now back to [the first link][another place].
 
-[another place]: www.github.com
-[another-link]: www.google.com
 # The Purpose of Pick Up Pal
 Pick Up Pals (PUP) is an app that streamlines a school’s child pick-up systems by making the parent or guardian verification system more efficient and implementing safety and security protocols.
      PUP will save verification information of parents and guardians, such as driver's licenses and car information, and ensures the ability to identify authorized parents and guardians. The app, for security and safety concerns, will save a blacklist of individuals that have been identified as a threat or danger to the children.
