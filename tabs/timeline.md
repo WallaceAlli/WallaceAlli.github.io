@@ -1,4 +1,4 @@
-## [Home](/) | [Interviews](/tabs/interviews) | [Files](/tabs/files) | [Timeline](/tabs/timeline)
+## [Home](/) | [Interviews](/tabs/interviews) | [About](/tabs/about) | [Timeline](/tabs/timeline)
 
 ## This File will hold the time line for our project which we will update on a constant basis
 
