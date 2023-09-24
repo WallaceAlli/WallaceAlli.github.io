@@ -8,8 +8,8 @@ When a parent or gaurdian gets in line to pick up there kids, they open PuP and 
 
 
 # Why Pick Up Pal is needed
-??
+We believe that Pick Up Pal is crucial because school pick up are a traffic nightmare and cause a massive inconvience for the surrouding neighborhoods. By implementing a more efficient system, we can eliminate traffic jams around a school, as well as allow parents an easier time picking up their child.
 
 
 # Pick Up Pals Target Clients and Users
-??
+Our Target clients and users are schools and the parents associated with the schools as well. We will be providing the schools with the technology and helping them integrate the system within their current infastructure in order to allow a more efficent Pick Up Service. Through this manner, We hope that the after school experience and school parent interaction will be more concise.
