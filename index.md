@@ -2,7 +2,7 @@
 
 
 # The Purpose of Pick Up Pal
->Pick Up Pals (PUP) is an app that streamlines a school’s child pick-up systems by making the parent or guardian verification system more efficient and implementing safety and security protocols.
+Pick Up Pals (PUP) is an app that streamlines a school’s child pick-up systems by making the parent or guardian verification system more efficient and implementing safety and security protocols.
      PUP will save verification information of parents and guardians, such as driver's licenses and car information, and ensures the ability to identify authorized parents and guardians. The app, for security and safety concerns, will save a blacklist of individuals that have been identified as a threat or danger to the children.
 When a parent or guardian gets in line to pick up their children, they open the PUP application on their phone and select which child (of the ones they are allowed to pick up), they are picking up today. PUP will then generate a QR code on their device and a teacher will then scan the parent's QR code. Once scanned, the teacher's device will pull up the parent and guardian information and verify the person. The teacher will then press a button that puts the parent at the queue's bottom. Once the parent gets to the top of the queue, their child is then escorted to their car by the teacher.
 
