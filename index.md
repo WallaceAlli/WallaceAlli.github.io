@@ -1,4 +1,4 @@
-## [Home](/) | [Interviews](/tabs/interviews) | [Files](/tabs/files) | [Timeline](/tabs/timeline)
+## [Home](/) | [Interviews](/tabs/interviews) | [About](/tabs/about) | [Timeline](/tabs/timeline)
 
 
 # The Purpose of Pick Up Pal
