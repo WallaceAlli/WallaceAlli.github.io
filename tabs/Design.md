@@ -1,4 +1,6 @@
-# This Page will contain all of the Mock Designs that we implement in order to keep a time line of the Designs we consider.
+## [Home](/) | [Interviews](/tabs/interviews) | [About](/tabs/about) | [Timeline](/tabs/timeline) | [Designs](/Design)
+
+## This Page will contain all of the Mock Designs that we implement in order to keep a time line of the Designs we consider.
 
 ### This Design is for the Home Screen of the Pick Up Pal Application design for phones which can be used by either Parents or Teachers.
 
