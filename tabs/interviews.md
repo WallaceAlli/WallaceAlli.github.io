@@ -7,7 +7,7 @@
 ### Interview 1
 
 
-# Good afternoon How does your after school child pick up process at your elementary school?
+### Good afternoon How does your after school child pick up process at your elementary school?
 
 >Of course ur after-school pick-up procedures are designed to ensure the safety and smooth transition of students from the classroom to their parents or guardians. At the end of the school day we have designated areas where parents line up to collect their children.
 
