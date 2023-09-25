@@ -5,7 +5,9 @@
 ## This Page will Contain the Interviews that we will be conducting with Teachers and those Related to our Project
 
 ### Interview 1
+
 #
+
 **Good afternoon How does your after school child pick up process at your elementary school?**
 
 >Of course ur after-school pick-up procedures are designed to ensure the safety and smooth transition of students from the classroom to their parents or guardians. At the end of the school day we have designated areas where parents line up to collect their children.
@@ -31,13 +33,17 @@
 >Yes traffic is a big factor in slowing down the process as well as parents who make last minute changes to pick as it throws a wrench into the normal pick up procedures. If parents dont inform us of changes in pick up then it leads to verification issues
 
 **Thank you for your time**
+
 #
+
 </br>
 </br>
 </br>
 
 ### Interview 2
+
 #
+
 **Good afternoon, How many children do you have in elementary school?**
 
 >I have two children who attend Degan Elementry.
@@ -64,7 +70,9 @@
 
 
 ### Interview 3
+
 #
+
 **Good afternoon, could you tell me how many children you have in elementary school?**
 
 >I have an 8 year old son in the 3rd grade.
@@ -91,7 +99,9 @@
 
 
 ### Interview 4
+
 #
+
 **Good afternoon, could you please tell me about how your child pick up line works?**
 
 >Of course at the start of the year we assign each parents is given a tag that proves who they are ment to pick up. When parents arrive for pick-up they present their tag to us and we grab the corresponding students and escort them to their parent.
@@ -110,7 +120,9 @@
 
 
 ### Interview 5
+
 #
+
 **Good evening, To get started can you tell me how the pick up line system works?**
 
 >Certainly I'd be happy to explain. At the start of the year we give out colored tags that have the students last name on them as well as a list of each person is allowed to pick up the student. When the parent pulls up to pick up their kids we check there tag and their drivers license to check if there name is on the back of the tag. Then we go grab the student from the gym where they are all are and take them to the car. When a parent is picking up multiple children then we have to check each one of the tags and verify that the parents name is on the back of the tag. Overall the line runs smoothly albeit slowly its much more secure than what we were doing a couple of years ago though.
