@@ -1,4 +1,4 @@
-## [Home](/) | [Interviews](/tabs/interviews) | [About](/tabs/about) | [Timeline](/tabs/timeline)
+## [Home](/) | [Interviews](/tabs/interviews) | [About](/tabs/about) | [Timeline](/tabs/timeline) |[Designs](tabs/Design)
 #
 ## Pick Up Pal was created by Us as a Software Engineering Project for our Senior Capstone.
 ### Team Members Include 
