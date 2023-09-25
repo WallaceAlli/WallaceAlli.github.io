@@ -6,8 +6,7 @@
 
 ### Interview 1
 
-
-#### Good afternoon How does your after school child pick up process at your elementary school?
+**Good afternoon How does your after school child pick up process at your elementary school?**
 
 >Of course ur after-school pick-up procedures are designed to ensure the safety and smooth transition of students from the classroom to their parents or guardians. At the end of the school day we have designated areas where parents line up to collect their children.
 
@@ -33,15 +32,10 @@
 
 **Thank you for your time**
 
-#
-
-</br>
-</br>
-</br>
 
 ### Interview 2
 
-#
+
 
 **Good afternoon, How many children do you have in elementary school?**
 
@@ -70,7 +64,6 @@
 
 ### Interview 3
 
-#
 
 **Good afternoon, could you tell me how many children you have in elementary school?**
 
@@ -99,7 +92,6 @@
 
 ### Interview 4
 
-#
 
 **Good afternoon, could you please tell me about how your child pick up line works?**
 
@@ -120,7 +112,7 @@
 
 ### Interview 5
 
-#
+
 
 **Good evening, To get started can you tell me how the pick up line system works?**
 
