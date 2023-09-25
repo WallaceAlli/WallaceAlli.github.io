@@ -13,3 +13,5 @@ We believe that Pick Up Pal is crucial because school pick up are a traffic nigh
 
 # Pick Up Pals Target Clients and Users
 Our Target clients and users are schools and the parents associated with the schools as well. We will be providing the schools with the technology and helping them integrate the system within their current infastructure in order to allow a more efficent Pick Up Service. Through this manner, We hope that the after school experience and school parent interaction will be more concise.
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
