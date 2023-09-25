@@ -1,4 +1,4 @@
-## [Home](/) | [Interviews](/tabs/interviews) | [About](/tabs/about) | [Timeline](/tabs/timeline) | [Designs](/Design)
+## [Home](/) | [Interviews](/tabs/interviews) | [About](/tabs/about) | [Timeline](/tabs/timeline) | [Designs](/tabs/Design)
 
 ## This Page will contain all of the Mock Designs that we implement in order to keep a time line of the Designs we consider.
 
