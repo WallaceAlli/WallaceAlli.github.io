@@ -10,3 +10,5 @@
 ### September 23,2023
 
 >Our group met up once again on Saturday in ordrer to complete the SRS and make progress on the Presentation due Monday. During this meeting we complete the majority of the SRS. We awnsered questions that we had yesterday. Questions such as what type of functions would exist in our system and how we could best represent them in order to meet our system requirements. We also decided on what slides each team member would be presenting in order to make our presentation on Monday more streamlined and consistent. Overall, It was a productive meeting and we awnsered questions we came into the meeting knowing we had to awnser while also leaving with quality questions and jobs to cover for the next meeting.
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
