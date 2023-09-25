@@ -1,5 +1,9 @@
 # This Page will contain all of the Mock Designs that we implement in order to keep a time line of the Designs we consider.
 
+### This Design is for the Home Screen of the Pick Up Pal Application design for phones which can be used by either Parents or Teachers.
+
+![Alt Text](app_home_idea_on_phone-removebg-preview.png)
+
 ### This Design is for the QR Code for the Phone Application created by Thomas Gilmore in order to create an idea of what the parent would see once they requested for a QR Code
 
 ![Alt Text](app_QR_Code_idea_on_phone-removebg-preview.png)
