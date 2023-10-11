@@ -16,4 +16,7 @@
 
 >With our Upcoming Presentation on Monday, We met up again to finalize our Presentation and Report. We completed the SRS and tried to go through it as if we were someone completely new to the idea in order to judge how well it expands and explains our project. We than took turns presenting the Presentation to see what we could improve or do better for Monday. Another important factor we implemented was to upload the Interviews that we had all completed onto the Website in order to log them and place the information in a location we can quickly access. Our Team Leader Thomas even went through the task of creating a Mock design of what our Application could potentially look at which we will also upload to the Website. We than put everything together and uploaded it to Blackboard to be submitted.
 
+### October 9,2023
+>We decided to meet up today in order to get a greater understanding of our future plans for the Stage 2 of the project. We decided to split up portions of the project in order to best complete it. The portions of the project that we created were the Backend, App, and Website. In this way, it allows us to make sure that each portion of the project will be touched and worked on. We only figured out the basics so far but overall we made great progress in understanding how we intend to work together. 
+
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
