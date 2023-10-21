@@ -6,4 +6,13 @@
 ### Waliy Alli: Secretary and Software Engineer
 ### Tyler Sprencel: Project Manager and Software Engineer
 ### Nicholas Anderson : Software Engineer
+Stage 1
+>
+Stage 2
+>Low Fidelity Prototype and System Interphase - Thomas Gilmore
+>USe Case and Sequence Diagram - Tyler
+>Class Diagram
+>Implementation plan
+>
+
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
