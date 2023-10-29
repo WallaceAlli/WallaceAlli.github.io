@@ -7,7 +7,7 @@
 ### Tyler Sprencel: Project Manager and Software Engineer
 ### Nicholas Anderson : Software Engineer
 
-Stage 2
+Stage 2 Member Roles
 >Low Fidelity Prototype, Website Design,System Interphase - Thomas Gilmore
 
 >Use Case Models, BackEnd Implementation,Presentation - Tyler
