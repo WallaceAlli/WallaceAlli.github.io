@@ -9,9 +9,13 @@
 
 Stage 2
 >Low Fidelity Prototype, Website Design,System Interphase - Thomas Gilmore
+
 >Use Case Models, BackEnd Implementation,Presentation - Tyler
+
 >Class Diagram, App Implementation - Nicholar Anderson
+
 >Sequence Model and Website Implementation - Waliy Alli
+
 >Implementation plan, App Implementation and Design - Madalynn Villalobos
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
