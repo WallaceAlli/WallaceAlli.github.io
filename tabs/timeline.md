@@ -4,8 +4,7 @@
 
 ### September 22,2023
 
-![ALT TEXT](orb.jpg)
->In the era of our sovereign 2023, on this gloomy eve of September 22nd, the Elders convened beneath the shrouded canopy of ancient wisdom to deliberate and craft the Scrolls of Software Requirements. In this mystical conclave, we delved into the heart of our SRS manuscript, dissecting its arcane secrets with meticulous care. Amidst the flickering candlelight, we wove a tapestry of intricate details, illuminating the very essence of our quest. A profound revelation, like the tolling of a death knell, reverberated through our gathering, unveiling the sacred tapestry of future timelines and the imperious demands they bring forth for our sacred undertaking.
+>We met up in the library in order to be able to go over the Software requirement report. We broke down the report into parts and each member took it upon themselves to complete portions of the porject. For some part, We had to work together because of how they tied into one another or there was a situation where one person didnt understand what the report was asking form. We than create a time line for which we wanted the portions to be done while also planning for our next meeting
 
 ### September 23,2023
 
@@ -21,6 +20,8 @@
 
 
 ### October 13, 2023
->On Friday the team was required to attend the capstone class in order to meet with the Professor in order to reorganize and explain our progress. During that meeting, we discussed the information and feedback we obtained from presenting to the Board of the College of Engineering. Feedback such as worrying about legal requirements in terms of privacy along with potentially implementing a camera to scan car license plates. The result of that conversation was for Thomas, the team leader, to plan to do research on legislation and privacy laws in Texas where we plan to first launch our application. Another important idea that was brought up was how woud we handle schools having poor wifi along with some potential regions having bad connnectivity. To solve this problem, we have decided to potentially implement local caching in order to save the important information onto the users application. 
->
+>On Friday the team was required to attend the capstone class in order to meet with the Professor in order to reorganize and explain our progress. During that meeting, we discussed the information and feedback we obtained from presenting to the Board of the College of Engineering. Feedback such as worrying about legal requirements in terms of privacy along with potentially implementing a camera to scan car license plates. The result of that conversation was for Thomas, the team leader, to plan to do research on legislation and privacy laws in Texas where we plan to first launch our application. Another important idea that was brought up was how woud we handle schools having poor wifi along with some potential regions having bad connnectivity. To solve this problem, we have decided to potentially implement local caching in order to save the important information onto the users application.
+
+### October 29,2023
+>We met up today in order to be able to finish the Stage 2 Software Design specifications. We had all been working on our specific parts individually but it was time to put things together and go over everything in order to assure correct formating and consistency. We discuss how we intended to present our presentation along with our plans for the future as well. We also went over the models that we created, fixing them up in order to make sure that they looked up to par and consistent with our project.
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
